@@ -15,7 +15,7 @@ Welcome to the scRNA-seq data analysis pipeline using the **Seurat** package in 
 
 ---
 
-## 1️ quality\_control.R
+## 1️] quality\_control.R
 
 **Purpose:** Performs quality control on raw scRNA-seq data (10X Genomics format) and filters low-quality cells/genes.
 
@@ -44,7 +44,7 @@ Welcome to the scRNA-seq data analysis pipeline using the **Seurat** package in 
 
 ---
 
-## 2️ SCT\_integration\_analysis.R
+## 2️] SCT\_integration\_analysis.R
 
 **Purpose:** Normalizes, scores cell cycles, and integrates multiple samples using **SCTransform (SCT)** to minimize batch effects.
 
@@ -71,7 +71,7 @@ Welcome to the scRNA-seq data analysis pipeline using the **Seurat** package in 
 
 ---
 
-## 3️ clustering.R
+## 3️] clustering.R
 
 **Purpose:** Performs clustering to identify distinct cell types/states, visualize data, and annotate clusters.
 
