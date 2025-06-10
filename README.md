@@ -112,16 +112,10 @@ Raw 10X Data ─▶ quality_control.R ─▶ Filtered Seurat Object
                  clustering.R ─▶ Final Annotated Seurat Object & Results
 ```
 
-## 📌 Notes
+##  Notes
 
 * All objects are saved for reuse in `.RData` or `.rds` formats
 * Visualizations and intermediate objects help with reproducibility and QC validation
 * This pipeline is modular — each script can be rerun independently if input files are present
 
 ---
-
-## 📧 Contact
-
-**Shouryan Patil**
-Bioinformatics Graduate | Interested in scRNA-seq, Data Integration, and Cell Type Identification
-Feel free to connect for feedback or collaboration!
